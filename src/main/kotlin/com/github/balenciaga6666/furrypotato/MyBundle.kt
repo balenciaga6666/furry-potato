@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.balenciaga6666.furrypotato
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

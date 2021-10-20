@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.balenciaga6666.furrypotato.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.balenciaga6666.furrypotato.MyBundle
 
 class MyProjectService(project: Project) {
 
